@@ -1,10 +1,10 @@
 import './App.css';
-import HTTPPosts from './components/HTTPPosts';
+import HTTPHooks from './components/HTTPHooks';
 
 function App() {
   return (
     <div className="App">
-      <HTTPPosts/> 
+      <HTTPHooks/> 
     </div>
   );
 }
